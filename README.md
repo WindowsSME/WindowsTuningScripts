@@ -6,7 +6,7 @@ A collection of PowerShell scripts for customizing and optimizing Windows user e
 
 ## Included Scripts
 
-### `Disable-LiveCaption.ps1`
+### [Disable-LiveCaption.ps1](./Disable-LiveCaption.ps1)
 Disables the Live Captions accessibility feature in Windows.
 
 ### `Disable-AutoMicMute.ps1`
