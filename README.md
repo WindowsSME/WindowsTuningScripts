@@ -30,8 +30,9 @@ Retrieves serial numbers for connected monitors using WMI queries. Useful for as
 
 Each script is self-contained. Open PowerShell as Administrator and run:
 
-powershell .\ScriptName.ps1
-
+```powershell 
+.\ScriptName.ps1
+```
 Some scripts may prompt for elevated permissions or restart requirements.
 
 ---
@@ -39,6 +40,8 @@ Some scripts may prompt for elevated permissions or restart requirements.
 ## Notes
 These scripts are tested on Windows 10 and 11.
 Use responsibly in production environments. Always test before deploying broadly.
+
+---
 
 ## Contributions
 Pull requests are welcome! If you have additional tuning scripts or improvements, feel free to contribute.
