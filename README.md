@@ -45,3 +45,9 @@ Use responsibly in production environments. Always test before deploying broadly
 
 ## Contributions
 Pull requests are welcome! If you have additional tuning scripts or improvements, feel free to contribute.
+
+---
+
+## License
+[MIT License](./LICENSE)
+
