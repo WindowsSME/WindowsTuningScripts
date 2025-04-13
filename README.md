@@ -49,5 +49,5 @@ Pull requests are welcome! If you have additional tuning scripts or improvements
 ---
 
 ## License
-[MIT License](./LICENSE)
+MIT License
 
