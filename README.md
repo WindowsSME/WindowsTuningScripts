@@ -30,9 +30,6 @@ A collection of PowerShell scripts for customizing and optimizing Windows user e
 - [Get-Monitor-Serial.ps1](./Get-Monitor-Serial.ps1)  
   Retrieves monitor serial numbers via WMI — useful for inventory or asset tracking.
 
-- [Get-LocalUsers.ps1](./Get-LocalUsers.ps1)  
-  Lists all local user accounts on the system, including their enabled/disabled status.
-
 ### Browser Configuration
 
 - [Get-ChromeExperiments.ps1](./Get-ChromeExperiments.ps1)  
