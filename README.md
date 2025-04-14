@@ -19,10 +19,10 @@ A collection of PowerShell scripts for customizing and optimizing Windows user e
 
 ### Desktop Customization
 
-- [BGWallpaper.ps1](./BGWallpaper.ps1)  
+- [BGWallpaper.ps1](./BGWallpaper.ps1)    
   Applies or sets a specific desktop wallpaper system-wide using a configuration path.
 
-- [WallpaperInfoUpdate.ps1](./WallpaperInfoUpdate.ps1)  
+- [WallpaperInfoUpdate.ps1](./WallpaperInfoUpdate.ps1)    
   Updates the desktop wallpaper dynamically with overlays such as hostname, IP address, and other system info.
 
 ### Device & User Inventory
@@ -40,13 +40,13 @@ A collection of PowerShell scripts for customizing and optimizing Windows user e
 
 ### Security Checks
 
-- [XDR-AppChecker.ps1](./XDR-AppChecker.ps1)
+- [XDR-AppChecker.ps1](./XDR-AppChecker.ps1)  
   Verifies that required security applications or XDR agents are installed and running on the system.
 
-- [XDR-ServerStatusCheck.ps1](./XDR-ServerStatusCheck.ps1)
+- [XDR-ServerStatusCheck.ps1](./XDR-ServerStatusCheck.ps1)  
   Checks communication status or health of XDR/EDR services or backend endpoints.
 
-- [Get-BitlockerStatus.ps1](./Get-BitlockerStatus.ps1)
+- [Get-BitlockerStatus.ps1](./Get-BitlockerStatus.ps1)  
   Audits the BitLocker status of system drives and outputs recovery or encryption info for compliance tracking.
 
 ---
