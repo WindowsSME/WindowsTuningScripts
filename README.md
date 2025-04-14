@@ -6,32 +6,40 @@ A collection of PowerShell scripts for customizing and optimizing Windows user e
 
 ## Included Scripts
 
-### [Disable-LiveCaption.ps1](./Disable-LiveCaption.ps1)
-Disables the Live Captions accessibility feature in Windows to reduce resource usage and visual noise.
+### System Tweaks & Performance
 
-### [Disable-AutoMicMute.ps1](./Disable-AutoMicMute.ps1)
-Prevents automatic microphone muting when switching audio devices or joining calls.
+- [Disable-LiveCaption.ps1](./Disable-LiveCaption.ps1)  
+  Disables the Live Captions accessibility feature in Windows to reduce resource usage and visual noise.
 
-### [ModifyDO.ps1](./ModifyDO.ps1)
-Toggles Delivery Optimization settings to reduce bandwidth usage on updates and app downloads.
+- [Disable-AutoMicMute.ps1](./Disable-AutoMicMute.ps1)  
+  Prevents automatic microphone muting when switching audio devices or joining calls.
 
-### [BGWallpaper.ps1](./BGWallpaper.ps1)
-Applies or sets a specific background wallpaper system-wide using a config path.
+- [ModifyDO.ps1](./ModifyDO.ps1)  
+  Toggles Delivery Optimization settings to reduce bandwidth usage during updates and app downloads.
 
-### [WallpaperInfoUpdate.ps1](./WallpaperInfoUpdate.ps1)
-Updates the desktop wallpaper dynamically with overlays (hostname, IP, system info).
+### Desktop Customization
 
-### [Get-Monitor-Serial.ps1](./Get-Monitor-Serial.ps1)
-Retrieves monitor serial numbers from WMI queries — useful for inventory tracking.
+- [BGWallpaper.ps1](./BGWallpaper.ps1)  
+  Applies or sets a specific desktop wallpaper system-wide using a configuration path.
 
-### [Get-LocalUsers.ps1](./Get-LocalUsers.ps1)
-Lists all local user accounts on the device, with enabled/disabled status.
+- [WallpaperInfoUpdate.ps1](./WallpaperInfoUpdate.ps1)  
+  Updates the desktop wallpaper dynamically with overlays such as hostname, IP address, and other system info.
 
-### [Get-ChromeExperiments.ps1](./Get-ChromeExperiments.ps1)
-Reads Chrome flags from the user’s configuration to report on active experiments.
+### Device & User Inventory
 
-### [Set-ChromeExperiments.ps1](./Set-ChromeExperiments.ps1)
-Sets Chrome flags to tune performance and visual settings across multiple users.
+- [Get-Monitor-Serial.ps1](./Get-Monitor-Serial.ps1)  
+  Retrieves monitor serial numbers via WMI — useful for inventory or asset tracking.
+
+- [Get-LocalUsers.ps1](./Get-LocalUsers.ps1)  
+  Lists all local user accounts on the system, including their enabled/disabled status.
+
+### Browser Configuration
+
+- [Get-ChromeExperiments.ps1](./Get-ChromeExperiments.ps1)  
+  Reads Chrome’s experimental flags from user config files and reports current settings.
+
+- [Set-ChromeExperiments.ps1](./Set-ChromeExperiments.ps1)  
+  Modifies Chrome flags to tune performance and visuals across multiple users or profiles.
 
 ---
 
