@@ -7,22 +7,31 @@ A collection of PowerShell scripts for customizing and optimizing Windows user e
 ## Included Scripts
 
 ### [Disable-LiveCaption.ps1](./Disable-LiveCaption.ps1)
-Disables the Live Captions accessibility feature in Windows.
+Disables the Live Captions accessibility feature in Windows to reduce resource usage and visual noise.
 
 ### [Disable-AutoMicMute.ps1](./Disable-AutoMicMute.ps1)
-Prevents automatic microphone muting under specific Windows scenarios (e.g., switching audio devices).
+Prevents automatic microphone muting when switching audio devices or joining calls.
 
 ### [ModifyDO.ps1](./ModifyDO.ps1)
-Adjusts Delivery Optimization settings to reduce bandwidth usage and improve update performance.
+Toggles Delivery Optimization settings to reduce bandwidth usage on updates and app downloads.
 
 ### [BGWallpaper.ps1](./BGWallpaper.ps1)
-Applies or sets a system-wide desktop wallpaper based on specified configuration.
+Applies or sets a specific background wallpaper system-wide using a config path.
 
 ### [WallpaperInfoUpdate.ps1](./WallpaperInfoUpdate.ps1)
-Dynamically updates wallpaper with information overlays such as hostname, IP address, or system status.
+Updates the desktop wallpaper dynamically with overlays (hostname, IP, system info).
 
 ### [Get-Monitor-Serial.ps1](./Get-Monitor-Serial.ps1)
-Retrieves serial numbers for connected monitors using WMI queries. Useful for asset management.
+Retrieves monitor serial numbers from WMI queries — useful for inventory tracking.
+
+### [Get-LocalUsers.ps1](./Get-LocalUsers.ps1)
+Lists all local user accounts on the device, with enabled/disabled status.
+
+### [Get-ChromeExperiments.ps1](./Get-ChromeExperiments.ps1)
+Reads Chrome flags from the user’s configuration to report on active experiments.
+
+### [Set-ChromeExperiments.ps1](./Set-ChromeExperiments.ps1)
+Sets Chrome flags to tune performance and visual settings across multiple users.
 
 ---
 
