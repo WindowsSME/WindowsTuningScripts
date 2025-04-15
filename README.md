@@ -8,9 +8,6 @@ A collection of PowerShell scripts for customizing and optimizing Windows user e
 
 ### System Tweaks & Performance
 
-- [Disable-LiveCaption.ps1](./Disable-LiveCaption.ps1)  
-  Disables the Live Captions accessibility feature in Windows to reduce resource usage and visual noise.
-
 - [Disable-AutoMicMute.ps1](./Disable-AutoMicMute.ps1)  
   Prevents automatic microphone muting when switching audio devices or joining calls.
 
@@ -35,6 +32,9 @@ A collection of PowerShell scripts for customizing and optimizing Windows user e
 
 ### Browser Configuration
 
+- [Disable-LiveCaption.ps1](./Disable-LiveCaption.ps1)  
+  Disables the Live Captions accessibility feature in Windows to reduce resource usage and visual noise.
+  
 - [Get-ChromeExperiments.ps1](./Get-ChromeExperiments.ps1)  
   Reads Chrome’s experimental flags from user config files and reports current settings.
 
