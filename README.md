@@ -17,6 +17,9 @@ A collection of PowerShell scripts for customizing and optimizing Windows user e
 - [ModifyDO.ps1](./ModifyDO.ps1)  
   Toggles Delivery Optimization settings to reduce bandwidth usage during updates and app downloads.
 
+- [Set-MTU.ps1](./Set-MTU.ps1)  
+  Sets a custom MTU value (e.g. 1300) for VPN interfaces to optimize network performance and prevent fragmentation.
+
 ### Desktop Customization
 
 - [BGWallpaper.ps1](./BGWallpaper.ps1)    
