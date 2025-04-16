@@ -1,4 +1,4 @@
-# WindowsTuningScripts
+# Windows Tuning Scripts
 
 A collection of PowerShell scripts for customizing and optimizing Windows user experience, system behavior, and desktop appearance. These scripts are designed to help with both personal customization and enterprise-level tuning.
 
