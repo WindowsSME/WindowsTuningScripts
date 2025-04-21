@@ -24,12 +24,7 @@ A collection of PowerShell scripts for customizing and optimizing Windows user e
 
 - [WallpaperInfoUpdate.ps1](./WallpaperInfoUpdate.ps1)    
   Updates the desktop wallpaper dynamically with overlays such as hostname, IP address, and other system info.
-
-### Device & User Inventory
-
-- [Get-Monitor-Serial.ps1](./Get-Monitor-Serial.ps1)  
-  Retrieves monitor serial numbers via WMI — useful for inventory or asset tracking.
-
+  
 ### Browser Configuration
 
 - [Disable-LiveCaption.ps1](./Disable-LiveCaption.ps1)  
