@@ -36,14 +36,6 @@ A collection of PowerShell scripts for customizing and optimizing Windows user e
 - [Set-ChromeExperiments.ps1](./Set-ChromeExperiments.ps1)  
   Modifies Chrome flags to tune performance and visuals across multiple users or profiles.
 
-### Security Checks
-
-- [XDR-AppChecker.ps1](./XDR-AppChecker.ps1)  
-  Verifies that required security applications or XDR agents are installed and running on the system.
-
-- [XDR-ServerStatusCheck.ps1](./XDR-ServerStatusCheck.ps1)  
-  Checks communication status or health of XDR/EDR services or backend endpoints.
-
 ---
 
 ## Usage
