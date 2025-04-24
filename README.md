@@ -44,9 +44,6 @@ A collection of PowerShell scripts for customizing and optimizing Windows user e
 - [XDR-ServerStatusCheck.ps1](./XDR-ServerStatusCheck.ps1)  
   Checks communication status or health of XDR/EDR services or backend endpoints.
 
-- [Get-BitlockerStatus.ps1](./Get-BitlockerStatus.ps1)  
-  Audits the BitLocker status of system drives and outputs recovery or encryption info for compliance tracking.
-
 ---
 
 ## Usage
